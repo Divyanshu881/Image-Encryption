@@ -1,0 +1,8 @@
+env/
+Image Encry_1.ipynb
+.DS_Store
+encr.py 
+*.npy
+Encrypted_old/
+.ipynb_checkpoints
+car.webp
